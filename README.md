@@ -34,7 +34,7 @@ Horror-Game/
 Project ini dikembangkan menggunakan:
 Unity 6000.2.9f1
 
---
+---
 
 ## Tim Pengembang (Credits)
 Dibuat dengan penuh dedikasi oleh:

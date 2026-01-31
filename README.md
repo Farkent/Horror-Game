@@ -36,6 +36,12 @@ Unity 6000.2.9f1
 
 ---
 
+## Sumber Inspirasi
+Project ini terinspirasi dari YouTube Channel sagalanichol
+https://youtu.be/pWnP4Aps7Fs?si=iRRgt-7WsjYIVlq4
+
+---
+
 ## Tim Pengembang (Credits)
 Dibuat dengan penuh dedikasi oleh:
 1. Lutfi Septiawan Alwin

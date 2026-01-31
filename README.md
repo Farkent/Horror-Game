@@ -23,10 +23,10 @@ Project ini bertujuan untuk menghadirkan pengalaman bermain dengan suasana mence
 
 ## 📂 Struktur Project
 Horror-Game/
-── Assets/
-── Packages/
-── ProjectSettings/
-── README.md
+Assets/
+Packages/
+ProjectSettings/
+README.md
 
 ---
 
